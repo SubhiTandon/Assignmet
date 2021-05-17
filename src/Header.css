@@ -1,0 +1,40 @@
+.header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: rgb(204, 200, 200);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header__logo {
+  width: 100px;
+  object-fit: contain;
+  margin: 0 20px;
+  margin-top: 18px;
+}
+
+.header__nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header__optionOne {
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.header__option {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+..header__optionOne:hover {
+  padding: 8px;
+  color: white;
+  background-color: black;
+}

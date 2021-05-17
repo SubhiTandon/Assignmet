@@ -1,0 +1,20 @@
+.task__list {
+  margin: 20px 20px 20px 20px;
+}
+
+.delete__tasks {
+  background-color: red;
+  color: white;
+  margin-left: 190px;
+}
+
+.horizontal__line {
+  margin: 5px;
+}
+
+.Addtask {
+  margin: 5px;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+}

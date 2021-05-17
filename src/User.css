@@ -1,0 +1,21 @@
+.User__logout {
+  font-weight: 300;
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+}
+
+.User__logout:hover {
+  background-color: grey;
+}
+
+.User__password:hover {
+  background-color: gray;
+}
+
+.User__password {
+  background-color: white;
+  font-weight: 300;
+  margin: 10px;
+  padding: 10px;
+}
